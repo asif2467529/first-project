@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url("tree.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.box{
+    height: 100vh;
+    width: 100vw;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box h1{
+    font-size: 50px;
+    color: blueviolet;
+}
